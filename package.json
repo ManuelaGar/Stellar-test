@@ -1,0 +1,15 @@
+{
+  "name": "stellar-test",
+  "version": "1.0.0",
+  "description": "Create new account, make a transaction and receive a payment",
+  "main": "create_account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuela Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "stellar-sdk": "^3.1.2"
+  }
+}
